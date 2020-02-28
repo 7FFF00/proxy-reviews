@@ -6,11 +6,11 @@
     },
     "listings": {
       "route": "/listings",
-      "address": "http://54.153.105.148:3002/api/listings"
+      "address": "http://54.71.145.232/api/listings"
     },
     "room": {
       "route": "/room",
-      "address": "http://52.53.211.152:3333/api/room"
+      "address": "http://34.210.25.123:3001/api/room"
     },
     "booking": {
       "route": "/booking",
@@ -18,11 +18,11 @@
     },
     "reviews": {
       "route": "/reviews",
-      "address": "http://127.0.0.1:3001/api/reviews"
+      "address": "http://52.13.113.42/api/reviews"
     },
     "morehomes": {
       "route": "/MoreHomes",
-      "address": "http://3.14.81.50/api/morehomes"
+      "address": "http://54.185.57.115/api/morehomes"
     }
   }
 }
